@@ -1,0 +1,7 @@
+celebrity_name,judge_rank,was_eliminated,mean_fan_rank,std_fan_rank,fan_rank_ci_low,fan_rank_ci_high,fan_rank_ci_width,mean_fan_votes,fan_votes_ci_low,fan_votes_ci_high,fan_votes_ci_width,votes_ci_width_thousands,certainty_index
+Kelly Monaco,6.0,False,6.0,0.0,6.0,6.0,0.0,60650.95,60650.44,60652.34,0.0,0.0,10.0
+Trista Sutter,4.0,False,4.5,0.0,4.5,4.5,0.0,127610.54,127602.98,127615.05,0.01,0.01,9.99
+Rachel Hunter,1.0,False,2.0,0.0,2.0,2.0,0.0,228042.64,228037.43,228049.78,0.01,0.01,9.99
+Evander Holyfield,4.0,False,4.5,0.0,4.5,4.5,0.0,127610.83,127603.5,127616.93,0.01,0.01,9.99
+Joey McIntyre,1.0,False,2.0,0.0,2.0,2.0,0.0,228042.12,228031.69,228046.74,0.02,0.02,9.99
+John O'Hurley,1.0,False,2.0,0.0,2.0,2.0,0.0,228042.91,228036.62,228051.81,0.02,0.02,9.99
